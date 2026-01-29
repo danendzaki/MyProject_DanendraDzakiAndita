@@ -1,5 +1,2 @@
-Belajar git ignore
-# My Project
-Repository baru dari PC lokal
-Belajar reset dan revert
-
+# My Project Belajar_Kolaborasi_Git
+1. Setup Environment
